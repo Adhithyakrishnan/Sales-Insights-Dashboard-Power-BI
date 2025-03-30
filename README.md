@@ -95,5 +95,5 @@ The dataset includes structured sales data collected from various transactions. 
 This Power BI report provides a detailed sales performance overview, offering valuable insights into customer behavior, product performance, and regional trends. By leveraging data-driven strategies, businesses can optimize sales operations and drive growth.
 
 ## Contact Information
-For further details, please reach out via [LinkedIn](#) or email at [Your Email].
+For further details, please reach out via [Linkedin](https://www.linkedin.com/in/adhithyakrishnan) or email at adhithyakrishnanmp@gmail.com
 
